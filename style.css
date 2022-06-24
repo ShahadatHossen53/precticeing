@@ -1,0 +1,11 @@
+.heading{
+    color: rgb(94, 72, 72);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.p-text{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
